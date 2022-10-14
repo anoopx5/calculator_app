@@ -1,15 +1,14 @@
 # calculator_app
 New project of Flutter Calculator
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](screenshot/Screenshot.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages
+
+google_fonts 3.0.1 [Click Here](https://pub.dev/packages/google_fonts)
+
+math_expressions: 2.3.1 [Click Here](https://pub.dev/packages/math_expressions)
